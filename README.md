@@ -1,10 +1,12 @@
+# Hooshmand Rahmani
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hooshmandrahmani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooshmand.rahmani@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hooshmand.xyz)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hooshmandrahmani)
-[![GitHub followers](https://img.shields.io/github/followers/hooshmandrahmani?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hooshmandrahmani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hooshmandrahmani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hooshmandr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooshmand.rahmani@gmail.com)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hooshmand.xyz)
+[![Follow](https://img.shields.io/github/followers/hooshmandrahmani?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=333)](https://github.com/hooshmandrahmani)
 
 </div>
 
