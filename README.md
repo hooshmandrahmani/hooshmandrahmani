@@ -2,10 +2,10 @@
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hooshmand.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hooshmandrahmani)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hooshmandr)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooshmand.rahmani@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hooshmand.xyz)
 [![Follow](https://img.shields.io/github/followers/hooshmandrahmani?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=333)](https://github.com/hooshmandrahmani)
 
 </div>
@@ -84,16 +84,6 @@ Arena · Vensim · @Risk · Minitab · EViews · SmartPLS
 
 </div>
 
----
-
-## Honors & Awards
-
-- 🏆 Sabanci Business School Full Scholarship, PhD — 2024
-- 🥇 Ranked 4th among all graduate students, School of Industrial Engineering, IUST — 2020
-- 🎓 Top 0.5% in Iran's Graduate Entrance Exam (Industrial Engineering) — 2018
-- 🎓 Top 2% among 252,000 in Iran's University Entrance Exam — 2013
-
----
 
 <div align="center">
 <sub>📍 Istanbul, Türkiye &nbsp;|&nbsp; PhD @ Sabanci University &nbsp;|&nbsp; <a href="https://hooshmand.xyz">hooshmand.xyz</a></sub>
