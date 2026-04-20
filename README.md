@@ -62,8 +62,6 @@ Gurobi · GAMS · CPLEX
 **Simulation & Analytics**
 Arena · SmartPLS · @Risk · Minitab · Vensim · EViews · Best Fit
 
-**Scientific Writing**
-LaTeX · Microsoft Office
 
 **Automation & AI Tools**
 N8N · API Integration · Claude Code
