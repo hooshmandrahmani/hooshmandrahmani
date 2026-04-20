@@ -56,15 +56,17 @@ Robust Optimization · Stochastic Programming · Integer Programming · Data-dri
 **Programming**
 Python · R · MATLAB · Stata · Git
 
+
+
+
+**Automation & AI Tools**
+N8N · API Integration · Claude Code
+
 **Optimization Solvers**
 Gurobi · GAMS · CPLEX
 
 **Simulation & Analytics**
 Arena · SmartPLS · @Risk · Minitab · Vensim · EViews · Best Fit
-
-
-**Automation & AI Tools**
-N8N · API Integration · Claude Code
 
 ---
 
