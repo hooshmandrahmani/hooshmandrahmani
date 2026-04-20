@@ -14,19 +14,23 @@
 
 ## About Me
 
-I'm a **PhD researcher in Business Analytics and Operations Management** at Sabanci University (Istanbul), with a background in industrial engineering. My work sits at the intersection of mathematical modelling and data-driven decision-making.
+PhD researcher in **Business Analytics and Operations Management** at Sabanci Business School, Sabanci University (Istanbul), with a background in industrial engineering.
 
-My research spans **robust optimization**, **stochastic modelling**, **integer programming**, and **machine learning**, with applications in healthcare operations, sustainable supply chains, and remanufacturing systems.
+My research develops mathematical models for operational decision-making under uncertainty — combining **robust optimization**, **stochastic programming**, and **integer programming** to build plans that remain feasible and near-optimal when realized conditions deviate from expectations. Application domains include healthcare operations, sustainable supply chains, and remanufacturing systems.
 
-Previously: MSc in Industrial Engineering at Iran University of Science and Technology (IUST) · BSc at Amirkabir University of Technology.
+I am particularly interested in problems where the coupling of multiple resource types under uncertainty creates challenges that decomposition-based or uncertainty-aware formulations are uniquely positioned to address.
+
+Previously: MSc in Industrial Engineering · Iran University of Science and Technology (IUST) · BSc in Industrial Engineering · Amirkabir University of Technology.
+
+> *"Exploring the unknown requires tolerating uncertainty."* — Brian Greene
 
 ---
 
-## What I'm Working On Now
+## Current Work
 
-- 🏥 **Robust MILP for integrated hospital scheduling** — co-optimizing surgical planning and nurse assignment under uncertainty (Sabanci University, with Dr. Burak Gokgur)
-- 📦 **Multi-objective robust optimization for remanufacturing** — handling uncertainty in return quality, production times, and demand in closed-loop supply chains
-- 🎓 **Teaching Assistant** at Sabanci Business School — MBA Marketing Analytics, Digital Marketing, and Operations courses
+- 🏥 **Robust MILP for integrated hospital scheduling** — jointly optimizing surgical case planning and nurse-to-patient assignment under budgeted uncertainty (Bertsimas & Sim framework), quantifying the Price of Robustness · Sabanci University, Dr. Burak Gökgür
+- 📚 **Systematic review of the Integrated Healthcare Timetabling Problem** — mapping 50+ papers from foundational metaheuristics to modern robust and stochastic models · PhD Summer Paper
+- 🎓 **Teaching Assistant** at Sabanci Business School — MBA Marketing Analytics, Digital Marketing, Operations & Supply Chain Management, and Business Analytics courses (250+ students)
 
 ---
 
@@ -34,28 +38,29 @@ Previously: MSc in Industrial Engineering at Iran University of Science and Tech
 
 | Project | Area | Tools |
 |---|---|---|
-| Robust Optimization for Healthcare Scheduling | Operations Research | Python · Gurobi |
-| Multi-objective Robust Optimization for Remanufacturing | Supply Chain | GAMS · MATLAB |
-| Next-Basket Prediction with Bidirectional Transformers | Machine Learning | Python · PyTorch |
-| Green Closed-Loop Supply Chain with Robust Fuzzy Programming | Sustainability | Python |
-| Benders Decomposition for Blood Supply Chain | Healthcare Logistics | GAMS |
-| Consumer Trust & Willingness-to-Pay (SEM) | Empirical Methods | R · SmartPLS |
+| [Robust Optimization for Integrated Healthcare Scheduling](https://hooshmand.xyz/projects/robust-optimization-for-integrated-healthcare-scheduling) | Healthcare Operations | Python · Gurobi · MILP |
+| [Integrated Healthcare Timetabling — Systematic Review](https://hooshmand.xyz/projects/the-integrated-healthcare-timetabling-problem--a-systematic-review) | Operations Research | Literature Review |
+| [MSc Thesis — Multi-objective Robust Optimization for Remanufacturing](https://hooshmand.xyz/projects/multi-objective-robust-optimization-for-remanufacturing-systems) | Sustainable Supply Chains | GAMS · NSGA-II · MILP |
+| [Tire CLSC Network Design under Hybrid Uncertainty](https://hooshmand.xyz/projects/tire-closed-loop-supply-chain-network-design-under-uncertainty) | Circular Economy | NSGA-II · Fuzzy Programming |
+| [Next-Basket Prediction with Bidirectional Transformers](https://hooshmand.xyz/projects/next-basket-prediction-using-bidirectional-transformers) | Machine Learning | Python · PyTorch · BERT4Rec |
+| [Benders Decomposition for Blood Supply Chain](https://hooshmand.xyz/projects/large-scale-optimization-of-healthcare-logistics-via-benders-decomposition) | Healthcare Logistics | GAMS · CPLEX |
+| [AI Ethics Framework for Healthcare Diagnostics](https://hooshmand.xyz/projects/ai-use-in-healthcare-ethical-framework-for-diagnostic-applications) | Responsible AI | GRAD-CAM · SHAP |
 
 ---
 
 ## Skills
 
-**Methodology**  
-Robust Optimization · Stochastic Modelling · Data-driven Optimization · Integer Programming · Machine Learning · Experimental Design · Empirical Methods
+**Research Methods**
+Robust Optimization · Stochastic Programming · Integer Programming · Data-driven Optimization · Machine Learning · Experimental Design · Structural Equation Modeling
 
-**Programming**  
-Python · R · MATLAB · Stata
+**Programming**
+Python · R · MATLAB · Stata · Git
 
-**Optimization Solvers**  
+**Optimization Solvers**
 Gurobi · GAMS · CPLEX
 
-**Analytics & Simulation**  
-Arena · Vensim · @Risk · Minitab · EViews · SmartPLS
+**Simulation & Analytics**
+Arena · SmartPLS · @Risk · Minitab · EViews
 
 ---
 
@@ -84,7 +89,8 @@ Arena · Vensim · @Risk · Minitab · EViews · SmartPLS
 
 </div>
 
+---
 
 <div align="center">
-<sub>📍 Istanbul, Türkiye &nbsp;|&nbsp; PhD @ Sabanci University &nbsp;|&nbsp; <a href="https://hooshmand.xyz">hooshmand.xyz</a></sub>
+<sub>📍 Istanbul, Türkiye &nbsp;|&nbsp; PhD @ Sabanci Business School &nbsp;|&nbsp; <a href="https://hooshmand.xyz">hooshmand.xyz</a></sub>
 </div>
