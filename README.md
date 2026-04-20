@@ -30,7 +30,7 @@ Previously: MSc in Industrial Engineering · Iran University of Science and Tech
 
 - 🏥 **Robust MILP for integrated hospital scheduling** — jointly optimizing surgical case planning and nurse-to-patient assignment under budgeted uncertainty (Bertsimas & Sim framework), quantifying the Price of Robustness · Sabanci University, Dr. Burak Gökgür
 - 📚 **Systematic review of the Integrated Healthcare Timetabling Problem** — mapping 50+ papers from foundational metaheuristics to modern robust and stochastic models · PhD Summer Paper
-- 🎓 **Teaching Assistant** at Sabanci Business School — MBA Marketing Analytics, Digital Marketing, Operations & Supply Chain Management, and Business Analytics courses (250+ students)
+- 🎓 **Teaching Assistant** at Sabanci Business School — MBA Marketing Analytics, Digital Marketing, Operations & Supply Chain Management, and Business Analytics courses (300+ students)
 
 ---
 
@@ -60,7 +60,13 @@ Python · R · MATLAB · Stata · Git
 Gurobi · GAMS · CPLEX
 
 **Simulation & Analytics**
-Arena · SmartPLS · @Risk · Minitab · EViews
+Arena · SmartPLS · @Risk · Minitab · Vensim · EViews · Best Fit
+
+**Scientific Writing**
+LaTeX · Microsoft Office
+
+**Automation & AI Tools**
+N8N · API Integration · Claude Code
 
 ---
 
