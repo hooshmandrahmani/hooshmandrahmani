@@ -28,8 +28,8 @@ Previously: MSc in Industrial Engineering · Iran University of Science and Tech
 
 ## Current Work
 
-- 🏥 **Robust MILP for integrated hospital scheduling** — jointly optimizing surgical case planning and nurse-to-patient assignment under budgeted uncertainty (Bertsimas & Sim framework), quantifying the Price of Robustness · Sabanci University, Dr. Burak Gökgür
-- 📚 **Systematic review of the Integrated Healthcare Timetabling Problem** — mapping 50+ papers from foundational metaheuristics to modern robust and stochastic models · PhD Summer Paper
+- 🏥 **Robust MILP for integrated hospital scheduling** — jointly optimizing surgical case planning and nurse-to-patient assignment under budgeted uncertainty (Bertsimas & Sim framework), quantifying the Price of Robustness
+- 📚 **Systematic review of the Integrated Healthcare Timetabling Problem** — mapping 50+ papers from foundational metaheuristics to modern robust and stochastic models
 - 🎓 **Teaching Assistant** at Sabanci Business School — MBA Marketing Analytics, Digital Marketing, Operations & Supply Chain Management, and Business Analytics courses (300+ students)
 
 ---
