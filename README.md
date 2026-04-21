@@ -18,7 +18,7 @@ PhD researcher in **Business Analytics and Operations Management** at Sabanci Bu
 
 My research develops mathematical models for operational decision-making under uncertainty — combining **robust optimization**, **stochastic programming**, and **integer programming** to build plans that remain feasible and near-optimal when realized conditions deviate from expectations. Application domains include healthcare operations, sustainable supply chains, and remanufacturing systems.
 
-I am particularly interested in problems where the coupling of multiple resource types under uncertainty creates challenges that decomposition-based or uncertainty-aware formulations are uniquely positioned to address.
+I am particularly interested in problems where the coupling of multiple resource types under uncertainty generates structural complexity that mathematical formulations are uniquely positioned to address.
 
 Previously: MSc in Industrial Engineering · Iran University of Science and Technology (IUST) · BSc in Industrial Engineering · Amirkabir University of Technology.
 
