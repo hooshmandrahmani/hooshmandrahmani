@@ -16,7 +16,7 @@
 
 PhD researcher in **Business Analytics and Operations Management** at Sabanci Business School, Sabanci University (Istanbul), with a background in industrial engineering.
 
-My research develops mathematical models for operational decision-making under uncertainty — combining **robust optimization**, **stochastic programming**, and **integer programming**. Application domains include healthcare operations, logistics, sustainable supply chains, and remanufacturing systems.
+My research develops mathematical models for operational decision-making under uncertainty, combining **robust optimization**, **stochastic programming**, and **integer programming**. Application domains include healthcare operations, logistics, sustainable supply chains, and remanufacturing systems.
 
 I am particularly interested in problems where the coupling of multiple resource types under uncertainty generates structural complexity that mathematical formulations are uniquely positioned to address.
 
@@ -30,6 +30,7 @@ Previously: MSc in Industrial Engineering · Iran University of Science and Tech
 
 - 🏥 **Robust MILP for integrated hospital scheduling** — jointly optimizing surgical case planning and nurse-to-patient assignment under budgeted uncertainty (Bertsimas & Sim framework), quantifying the Price of Robustness
 - 📚 **Systematic review of the Integrated Healthcare Timetabling Problem** — mapping 50+ papers from foundational metaheuristics to modern robust and stochastic models
+- 🤖 **Patterns of AI use in procurement** — firm-level survey research measuring how much, where, and how deeply firms use AI across the procurement process, and linking these patterns to cost performance, supply chain resilience, and sustainability
 - 🎓 **Teaching Assistant** at Sabanci Business School — MBA Marketing Analytics, Digital Marketing, Operations & Supply Chain Management, and Business Analytics courses (300+ students)
 
 ---
